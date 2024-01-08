@@ -6,15 +6,14 @@ This educational project simulates collisions among debris particles in Saturn's
 
 ## Features
 
-- Real-time simulation of debris collisions.
+- simulation of debris collisions.
 - Visualization of particle movement and collision dynamics.
-- Adjustable parameters such as particle size, initial velocities, and gravitational forces.
 - User-friendly QT interface for easy interaction.
 
 ## Dependencies
 
 - C++ compiler compatible with C++11 or later.
-- QT framework (version X.X.X or later).
+- QT framework (version 6.6.1 or later).
 - OpenGL libraries.
 
 ## Getting Started
